@@ -22,7 +22,7 @@ Welcome to **RoboSpeaker 1.2**, a fun and interactive text-to-speech program cre
    ```bash
    pip install pywin32
    ```
-3. 🍎 (Optional) For **Mac**, ensure the `say` command is available (default on most macOS versions).
+3. 🍎 For **Mac**, ensure the `say` command is available (default on most macOS versions).
 
 ---
 
